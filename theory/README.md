@@ -38,7 +38,7 @@ both `antelope` and `antelopes`.)
       ab*c+d?[ef]
 
   Remember the ε transition can be used to move between states without
-  consuming input. 
+  consuming input.
 
 * A lion can be sleeping, eating, hunting, or preening. Draw a state
   machine diagram for the lion and label the transition events that
